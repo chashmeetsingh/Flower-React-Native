@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>329062EE-E817-4069-9635-CA57B7FDA9FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>329062EE-E817-4069-9635-CA57B7FDA9FA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>flower project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>flower</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace flower with scheme flower and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>604781658.99166203</real>
+			<key>timeStoppedRecording</key>
+			<real>604781660.08686399</real>
+			<key>title</key>
+			<string>Building workspace flower with scheme flower and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>329062EE-E817-4069-9635-CA57B7FDA9FA</string>
+		</dict>
+		<key>4CCF9578-7462-4BA2-AC4A-74E875CD2858</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4CCF9578-7462-4BA2-AC4A-74E875CD2858.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>flower project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>flower</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace flower with scheme flower and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>605445530.65566301</real>
+			<key>timeStoppedRecording</key>
+			<real>605445532.83592701</real>
+			<key>title</key>
+			<string>Building workspace flower with scheme flower and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4CCF9578-7462-4BA2-AC4A-74E875CD2858</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

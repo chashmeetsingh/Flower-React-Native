@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBundleType.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/Portability.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/CPortability.h \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Private/React-Core/React/RCTMultipartStreamReader.h \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/React/Base/RCTUtils.h

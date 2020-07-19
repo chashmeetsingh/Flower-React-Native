@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/chashmeet/Projects/flower-mobile-app/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/Optional.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/Portability.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/CPortability.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/Traits.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/Utility.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/chashmeet/Projects/flower-mobile-app/ios/Pods/Folly/folly/CppAttributes.h
